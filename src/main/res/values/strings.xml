@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translation_description="App Name [CHAR LIMIT=40]">My AR Pet</string>
+    <string name="speech">Hello. Welcome to VUW!</string>
+    <string name="greeting_btn">Clear</string>
+    <string name="calendar_text">Calendar Text</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="main_page_btn">Try AR</string>
+    <string name="eventContent">Events List</string>
+    <string name="recommendation_subject">Share</string>
+    <string name="recommendation_body">""</string>
+    <string name="bengal_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Bengal/Bengal.glb</string>
+    <string name="kitten_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Kitten/Kitten.glb</string>
+    <string name="mc_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Mainecoon/Mainecoon.glb</string>
+    <string name="nf_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Norwegianforest/Norwegianforest.glb</string>
+    <string name="persian_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Persian/Persian.glb</string>
+    <string name="rb_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Russianblue/Russianblue.glb</string>
+    <string name="sf_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/ScottishFold/ScottishFold.glb</string>
+    <string name="sh_url">https://storage.googleapis.com/ar-answers-in-search-models/static/ShortHairedCat/model.glb</string>
+    <string name="siamese_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Siamese/Siamese.glb</string>
+    <string name="sphynx_url">https://storage.googleapis.com/ar-answers-in-search-models/static/cats/Sphynx/Sphynx.glb</string>
+    <string name="wombat_url">https://storage.googleapis.com/ar-answers-in-search-models/static/aussie_animals/Wombat.glb</string>
+</resources>

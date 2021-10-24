@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+<group android:checkableBehavior="single">
+    <item
+            android:id="@+id/bengal"
+            android:title="Bengal"
+            android:titleCondensed="@string/bengal_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/kitten"
+            android:title="Kitten"
+            android:titleCondensed="@string/kitten_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/mainecoon"
+            android:title="MaineCoon"
+            android:titleCondensed="@string/mc_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/norwegianforest"
+            android:title="NorwegianForest"
+            android:titleCondensed="@string/nf_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/persian"
+            android:title="Persian"
+            android:titleCondensed="@string/persian_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/russianblue"
+            android:title="RussianBlue"
+            android:titleCondensed="@string/rb_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/scottishFold"
+            android:title="ScottishFold"
+            android:titleCondensed="@string/sf_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/shorthair"
+            android:title="ShortHair"
+            android:titleCondensed="@string/sh_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/siamese"
+            android:title="Siamese"
+            android:titleCondensed="@string/siamese_url"
+            android:checked="true"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/sphynx"
+            android:title="Sphynx"
+            android:titleCondensed="@string/sphynx_url"
+            app:showAsAction="never|withText" />
+    <item
+            android:id="@+id/wombat"
+            android:title="Wombat"
+            android:titleCondensed="@string/wombat_url"
+            app:showAsAction="never|withText" />
+</group>
+</menu>
